@@ -83,8 +83,6 @@
         <title>APW笔记</title>
         <pubTime>2018-02-17T01:31:00.000Z</pubTime>
         
-        <tag>干货</tag>
-         
         <tag>BEC</tag>
          
         <tag>读书笔记</tag>
@@ -92,6 +90,8 @@
         <tag>英语</tag>
          
         <tag>学习</tag>
+         
+        <tag>干货</tag>
          
          
            
@@ -125,13 +125,13 @@
         <title>关于BEC-H的一些资料</title>
         <pubTime>2018-02-11T12:23:00.000Z</pubTime>
         
-        <tag>干货</tag>
-         
         <tag>BEC</tag>
          
         <tag>英语</tag>
          
         <tag>学习</tag>
+         
+        <tag>干货</tag>
          
          
            
