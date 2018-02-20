@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-19T08:57:51.696Z</updated>
+  <updated>2018-02-20T08:12:50.106Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ESLPOD笔记</title>
+    <link href="http://yoursite.com/2018/02/20/2018.2.20/"/>
+    <id>http://yoursite.com/2018/02/20/2018.2.20/</id>
+    <published>2018-02-20T07:50:00.000Z</published>
+    <updated>2018-02-20T08:12:50.106Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://p1.pstatp.com/large/66700004b4f161c0611b" alt=""></p><a id="more"></a><h1 id="A-day-in-life-of-Jeff"><a href="#A-day-in-life-of-Jeff" class="headerlink" title="A day in life of Jeff"></a>A day in life of Jeff</h1><h2 id="getting-up"><a href="#getting-up" class="headerlink" title="getting up"></a>getting up</h2><ul><li>covers</li><li>comforter</li><li>light blanket</li><li>pillowcase</li><li>sheets</li><li>jarringnuzzer</li><li>early riser</li><li>oversleep</li><li>sleep in</li></ul><details><summary>点我可得原文</summary><br><br>The worst part of the day for me is definitely when I have to get up. Waking up,<br>that I can handle. But getting up? That, I hate. The covers I have on my bed<br>are heavy, mostly because I have a comforter as well as a light blanket. I sleep<br>with two pillows, which for some reason have different color pillowcases. Well, at<br>least the sheets match.<br><br>I sometimes wake up before the alarm goes off. I like to keep the alarm at a low<br>volume, with some classical music, nothing too jarring. My old roommate used to<br>like the terrible buzzer that you find on most alarm clocks nowadays, which<br>always used to drive me nuts. As I was saying, I sometimes wake up before the<br>alarm, usually because of some noise outside the house—a car door slamming,<br>an alarm going off, gunfire—well, okay, not gunfire, but man, is my neighborhood<br>noisy! Of course, when I’m staying in a hotel, it’s usually easier to just get a<br>wake up call from the hotel than set the alarm.<br><br>I’m not really an early riser, so I don’t jump out of bed ready to take on the world.<br>I get up very slowly, usually one foot on the floor at a time. Every once in awhile<br>I’ll oversleep, but not too often. I really love the weekends, when I can sleep in.<br></details>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://p1.pstatp.com/large/66700004b4f161c0611b&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="读书笔记" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="英语" scheme="http://yoursite.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>A list of tools &amp; resources for designers.</title>

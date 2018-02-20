@@ -4,6 +4,25 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/02/20/2018.2.20/</loc>
+    <lastmod>2018-02-20T08:12:50.106Z</lastmod>
+    <data>
+        <display>
+        <title>ESLPOD笔记</title>
+        <pubTime>2018-02-20T07:50:00.000Z</pubTime>
+        
+        <tag>读书笔记</tag>
+         
+        <tag>英语</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/02/07/2018.2.7/</loc>
     <lastmod>2018-02-19T12:31:18.754Z</lastmod>
     <data>
