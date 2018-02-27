@@ -4,6 +4,42 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/02/19/2018.2.19/</loc>
+    <lastmod>2018-02-27T12:51:27.204Z</lastmod>
+    <data>
+        <display>
+        <title>A list of tools & resources for designers.</title>
+        <pubTime>2018-02-19T08:37:00.000Z</pubTime>
+        
+        <tag>干货</tag>
+         
+        <tag>摄影</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/02/07/2018.2.7/</loc>
+    <lastmod>2018-02-27T12:48:40.791Z</lastmod>
+    <data>
+        <display>
+        <title>《把你的英语用起来》读书笔记</title>
+        <pubTime>2018-02-07T07:13:00.000Z</pubTime>
+        
+        <tag>读书笔记</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/02/17/2018.2.17/</loc>
     <lastmod>2018-02-27T12:46:16.779Z</lastmod>
     <data>
@@ -79,42 +115,6 @@
         <tag>读书笔记</tag>
          
         <tag>英语</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/02/07/2018.2.7/</loc>
-    <lastmod>2018-02-19T12:31:18.754Z</lastmod>
-    <data>
-        <display>
-        <title>《把你的英语用起来》读书笔记</title>
-        <pubTime>2018-02-07T07:13:00.000Z</pubTime>
-        
-        <tag>读书笔记</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/02/19/2018.2.19/</loc>
-    <lastmod>2018-02-19T08:57:51.696Z</lastmod>
-    <data>
-        <display>
-        <title>A list of tools & resources for designers.</title>
-        <pubTime>2018-02-19T08:37:00.000Z</pubTime>
-        
-        <tag>干货</tag>
-         
-        <tag>摄影</tag>
          
          
            
