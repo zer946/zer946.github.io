@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/02/27/2018.2.27/</loc>
+    <lastmod>2018-02-27T12:30:49.508Z</lastmod>
+    <data>
+        <display>
+        <title>且看20分钟吹出1000字读后感</title>
+        <pubTime>2018-02-27T12:27:00.000Z</pubTime>
+        
+        <tag>读书笔记</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/02/20/2018.2.20/</loc>
     <lastmod>2018-02-20T08:12:50.106Z</lastmod>
     <data>
