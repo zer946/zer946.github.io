@@ -4,6 +4,54 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/02/17/2018.2.17/</loc>
+    <lastmod>2018-02-27T12:46:16.779Z</lastmod>
+    <data>
+        <display>
+        <title>APW笔记</title>
+        <pubTime>2018-02-17T01:31:00.000Z</pubTime>
+        
+        <tag>BEC</tag>
+         
+        <tag>读书笔记</tag>
+         
+        <tag>英语</tag>
+         
+        <tag>学习</tag>
+         
+        <tag>干货</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/02/11/2018.2.11/</loc>
+    <lastmod>2018-02-27T12:45:29.557Z</lastmod>
+    <data>
+        <display>
+        <title>关于BEC-H的一些资料</title>
+        <pubTime>2018-02-11T12:23:00.000Z</pubTime>
+        
+        <tag>BEC</tag>
+         
+        <tag>英语</tag>
+         
+        <tag>学习</tag>
+         
+        <tag>干货</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/02/27/2018.2.27/</loc>
     <lastmod>2018-02-27T12:30:49.508Z</lastmod>
     <data>
@@ -93,31 +141,6 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/02/17/2018.2.17/</loc>
-    <lastmod>2018-02-18T12:06:47.903Z</lastmod>
-    <data>
-        <display>
-        <title>APW笔记</title>
-        <pubTime>2018-02-17T01:31:00.000Z</pubTime>
-        
-        <tag>BEC</tag>
-         
-        <tag>读书笔记</tag>
-         
-        <tag>英语</tag>
-         
-        <tag>学习</tag>
-         
-        <tag>干货</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2017/12/31/2018.2.11(2)/</loc>
     <lastmod>2018-02-18T12:06:00.122Z</lastmod>
     <data>
@@ -126,29 +149,6 @@
         <pubTime>2017-12-31T13:47:00.000Z</pubTime>
         
         <tag>music</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/02/11/2018.2.11/</loc>
-    <lastmod>2018-02-18T12:02:04.436Z</lastmod>
-    <data>
-        <display>
-        <title>关于BEC-H的一些资料</title>
-        <pubTime>2018-02-11T12:23:00.000Z</pubTime>
-        
-        <tag>BEC</tag>
-         
-        <tag>英语</tag>
-         
-        <tag>学习</tag>
-         
-        <tag>干货</tag>
          
          
            
