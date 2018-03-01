@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-27T12:30:49.508Z</updated>
+  <updated>2018-03-01T02:02:09.215Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>与Halena</title>
+    <link href="http://yoursite.com/2018/03/01/2018.3.1/"/>
+    <id>http://yoursite.com/2018/03/01/2018.3.1/</id>
+    <published>2018-03-01T01:50:00.000Z</published>
+    <updated>2018-03-01T02:02:09.215Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1325812273,1195849886&amp;fm=27&amp;gp=0.jpg" alt=""></p><a id="more"></a><h1 id="BOOKS"><a href="#BOOKS" class="headerlink" title="BOOKS"></a>BOOKS</h1><h2 id="If-you-want-to-do-easy"><a href="#If-you-want-to-do-easy" class="headerlink" title="If you want to do easy"></a>If you want to do easy</h2><ul><li>Junie B. Jones series by Barbara Park</li><li>Magic Finger by Roald Dahl</li></ul><h2 id="If-you-want-medium-bit-hard"><a href="#If-you-want-medium-bit-hard" class="headerlink" title="If you want medium/bit hard"></a>If you want medium/bit hard</h2><ul><li>Goosebump series by R.L Stine</li><li>Stargirl by Jerry Spinelli</li></ul><h2 id="If-want-hard"><a href="#If-want-hard" class="headerlink" title="If want hard"></a>If want hard</h2><ul><li>Dragonwings by Laurence Yep</li><li>Fault in our Stars by John Green</li><li>The Outsiders by S.E Hilton</li><li>The Alchemist by Paulo Coelho</li><li>To Kill a Mockingbird by Harper Lee</li></ul><h2 id="Some-of-the-books-i-read-are"><a href="#Some-of-the-books-i-read-are" class="headerlink" title="Some of the books i read are:"></a>Some of the books i read are:</h2><ul><li>Book Thief by Markus Zusak</li><li>Norwegian Wood by Haruki Murakami</li><li>The Count of Monte Cristo by Alexandre Dumas</li></ul><h1 id="FILMS"><a href="#FILMS" class="headerlink" title="FILMS"></a>FILMS</h1><ul><li>Cary Grant</li><li>Doris Day</li><li>John Wayne</li><li>Judy Garland</li><li>Mr. Blandings Builds his Dream House</li><li>Charade</li><li>The long long Trailer</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1325812273,1195849886&amp;amp;fm=27&amp;amp;gp=0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>且看20分钟吹出1000字读后感</title>
@@ -179,7 +199,7 @@
     <link href="http://yoursite.com/2017/12/31/2018.2.11(2)/"/>
     <id>http://yoursite.com/2017/12/31/2018.2.11(2)/</id>
     <published>2017-12-31T13:47:00.000Z</published>
-    <updated>2018-02-18T12:06:00.122Z</updated>
+    <updated>2018-03-01T02:04:12.417Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://p3zi4djnk.bkt.clouddn.com/music.JPG" alt=""></p><a id="more"></a><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="300" height="450" src="//music.163.com/outchain/player?type=0&id=541687119&auto=0&height=430"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="300" height="450" src="//music.163.com/outchain/player?type=0&id=2009121836&auto=1&height=430"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="300" height="450" src="//music.163.com/outchain/player?type=0&id=37287770&auto=1&height=430"></iframe><h2 id="看了这么多，你可以在下方评论区留下你宝贵的建议………………"><a href="#看了这么多，你可以在下方评论区留下你宝贵的建议………………" class="headerlink" title="看了这么多，你可以在下方评论区留下你宝贵的建议………………"></a>看了这么多，你可以在下方评论区留下你宝贵的建议………………</h2>]]></content>
     
@@ -189,6 +209,8 @@
     
     </summary>
     
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
       <category term="music" scheme="http://yoursite.com/tags/music/"/>
     
