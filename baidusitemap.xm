@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://yoursite.com/2018/03/20/2018.3.20/</loc>
-    <lastmod>2018-03-20T10:09:12.593Z</lastmod>
+    <lastmod>2018-03-20T10:20:38.652Z</lastmod>
     <data>
         <display>
         <title>sorry</title>
