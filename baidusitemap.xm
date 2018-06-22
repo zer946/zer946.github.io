@@ -4,14 +4,14 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/03/20/2018.3.20/</loc>
-    <lastmod>2018-03-20T10:20:38.652Z</lastmod>
+    <loc>http://yoursite.com/2018/03/01/2018.3.1/</loc>
+    <lastmod>2018-06-22T16:38:21.469Z</lastmod>
     <data>
         <display>
-        <title>sorry</title>
-        <pubTime>2018-03-20T10:00:00.000Z</pubTime>
+        <title>与Halena</title>
+        <pubTime>2018-03-01T01:50:00.000Z</pubTime>
         
-        <tag>test</tag>
+        <tag>生活</tag>
          
          
            
@@ -21,14 +21,14 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/03/01/2018.3.1/</loc>
-    <lastmod>2018-03-01T02:36:04.523Z</lastmod>
+    <loc>http://yoursite.com/2018/03/20/2018.3.20/</loc>
+    <lastmod>2018-03-20T10:20:38.652Z</lastmod>
     <data>
         <display>
-        <title>与Halena</title>
-        <pubTime>2018-03-01T01:50:00.000Z</pubTime>
+        <title>sorry</title>
+        <pubTime>2018-03-20T10:00:00.000Z</pubTime>
         
-        <tag>生活</tag>
+        <tag>test</tag>
          
          
            
