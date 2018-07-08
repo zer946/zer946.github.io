@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/07/20/2018.7.8/</loc>
+    <lastmod>2018-07-08T05:57:51.625Z</lastmod>
+    <data>
+        <display>
+        <title>七月初·坦露心迹</title>
+        <pubTime>2018-07-20T05:25:00.000Z</pubTime>
+        
+        <tag>生活</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/03/01/2018.3.1/</loc>
     <lastmod>2018-06-22T16:38:21.469Z</lastmod>
     <data>
