@@ -4,6 +4,27 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/07/22/2018.7.22/</loc>
+    <lastmod>2018-07-22T07:44:55.614Z</lastmod>
+    <data>
+        <display>
+        <title>耶鲁音乐公开课笔记</title>
+        <pubTime>2018-07-22T07:32:00.000Z</pubTime>
+        
+        <tag>music</tag>
+         
+        <tag>读书笔记</tag>
+         
+        <tag>学习</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/07/20/2018.7.8/</loc>
     <lastmod>2018-07-08T05:57:51.625Z</lastmod>
     <data>
