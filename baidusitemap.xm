@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/08/17/2018.8.17/</loc>
+    <lastmod>2018-08-17T14:53:50.118Z</lastmod>
+    <data>
+        <display>
+        <title>七夕——回顾八月</title>
+        <pubTime>2018-08-17T14:53:00.000Z</pubTime>
+        
+        <tag>生活</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/07/22/2018.7.22/</loc>
     <lastmod>2018-07-22T07:52:11.825Z</lastmod>
     <data>
