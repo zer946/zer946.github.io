@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://yoursite.com/2018/08/17/2018.8.17/</loc>
-    <lastmod>2018-08-17T14:53:50.118Z</lastmod>
+    <lastmod>2018-08-17T14:59:13.110Z</lastmod>
     <data>
         <display>
         <title>七夕——回顾八月</title>
@@ -28,11 +28,11 @@
         <title>耶鲁音乐公开课笔记</title>
         <pubTime>2018-07-22T07:32:00.000Z</pubTime>
         
+        <tag>music</tag>
+         
         <tag>读书笔记</tag>
          
         <tag>学习</tag>
-         
-        <tag>music</tag>
          
          
            
