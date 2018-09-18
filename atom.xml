@@ -294,9 +294,9 @@
     </summary>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
-    
       <category term="music" scheme="http://yoursite.com/tags/music/"/>
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
   </entry>
   
