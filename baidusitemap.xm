@@ -4,6 +4,23 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/09/18/2018.9.18/</loc>
+    <lastmod>2018-09-18T15:14:20.107Z</lastmod>
+    <data>
+        <display>
+        <title>MC MC MC</title>
+        <pubTime>2018-09-18T15:13:00.000Z</pubTime>
+        
+        <tag>生活</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/08/17/2018.8.17/</loc>
     <lastmod>2018-08-17T14:59:13.110Z</lastmod>
     <data>
@@ -28,11 +45,11 @@
         <title>耶鲁音乐公开课笔记</title>
         <pubTime>2018-07-22T07:32:00.000Z</pubTime>
         
+        <tag>music</tag>
+         
         <tag>读书笔记</tag>
          
         <tag>学习</tag>
-         
-        <tag>music</tag>
          
          
            
@@ -100,9 +117,9 @@
         <title>天冷了，来点热腾腾的音乐吧</title>
         <pubTime>2017-12-31T13:47:00.000Z</pubTime>
         
-        <tag>test</tag>
-         
         <tag>music</tag>
+         
+        <tag>test</tag>
          
          
            
@@ -155,6 +172,8 @@
         <title>APW笔记</title>
         <pubTime>2018-02-17T01:31:00.000Z</pubTime>
         
+        <tag>干货</tag>
+         
         <tag>BEC</tag>
          
         <tag>读书笔记</tag>
@@ -162,8 +181,6 @@
         <tag>英语</tag>
          
         <tag>学习</tag>
-         
-        <tag>干货</tag>
          
          
            
@@ -180,13 +197,13 @@
         <title>关于BEC-H的一些资料</title>
         <pubTime>2018-02-11T12:23:00.000Z</pubTime>
         
+        <tag>干货</tag>
+         
         <tag>BEC</tag>
          
         <tag>英语</tag>
          
         <tag>学习</tag>
-         
-        <tag>干货</tag>
          
          
            
