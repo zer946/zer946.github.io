@@ -28,11 +28,11 @@
         <title>耶鲁音乐公开课笔记</title>
         <pubTime>2018-07-22T07:32:00.000Z</pubTime>
         
-        <tag>music</tag>
-         
         <tag>读书笔记</tag>
          
         <tag>学习</tag>
+         
+        <tag>music</tag>
          
          
            
@@ -100,9 +100,9 @@
         <title>天冷了，来点热腾腾的音乐吧</title>
         <pubTime>2017-12-31T13:47:00.000Z</pubTime>
         
-        <tag>music</tag>
-         
         <tag>test</tag>
+         
+        <tag>music</tag>
          
          
            
