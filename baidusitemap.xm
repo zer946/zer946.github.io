@@ -4,12 +4,12 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/09/18/2018.9.18/</loc>
-    <lastmod>2018-09-18T15:14:20.107Z</lastmod>
+    <loc>http://yoursite.com/2019/05/01/2019.5.1/</loc>
+    <lastmod>2019-05-01T16:51:17.152Z</lastmod>
     <data>
         <display>
-        <title>MC MC MC</title>
-        <pubTime>2018-09-18T15:13:00.000Z</pubTime>
+        <title>五月——时间真是不够用啊</title>
+        <pubTime>2019-05-01T15:39:00.000Z</pubTime>
         
         <tag>生活</tag>
          
@@ -22,11 +22,28 @@
     
   <url>
     <loc>http://yoursite.com/2018/08/17/2018.8.17/</loc>
-    <lastmod>2018-08-17T14:59:13.110Z</lastmod>
+    <lastmod>2019-05-01T15:00:25.162Z</lastmod>
     <data>
         <display>
         <title>七夕——回顾八月</title>
         <pubTime>2018-08-17T14:53:00.000Z</pubTime>
+        
+        <tag>生活</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/09/18/2018.9.18/</loc>
+    <lastmod>2018-09-18T15:14:20.107Z</lastmod>
+    <data>
+        <display>
+        <title>MC MC MC</title>
+        <pubTime>2018-09-18T15:13:00.000Z</pubTime>
         
         <tag>生活</tag>
          
